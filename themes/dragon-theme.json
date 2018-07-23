@@ -25,8 +25,8 @@
     "editorGroupHeader.tabsBackground": "#222233",
     "editor.inactiveSelectionBackground": "red",
     "notifications.foreground": "#AACCFF",
-    "notifications.background": "#222233"
-
+    "notifications.background": "#222233",
+    "input.background": "#33334d"
   },
   "tokenColors": [
   	 {
