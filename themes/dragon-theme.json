@@ -23,7 +23,10 @@
     "tab.activeBorder": "#222233",
     "tab.inactiveBackground": "#222233",
     "editorGroupHeader.tabsBackground": "#222233",
-    "editor.inactiveSelectionBackground": "red"
+    "editor.inactiveSelectionBackground": "red",
+    "notifications.foreground": "#AACCFF",
+    "notifications.background": "#222233"
+
   },
   "tokenColors": [
   	 {
@@ -100,18 +103,7 @@
                 "punctuation.definition.string.end"
             ],
             "settings": {
-                "foreground": "#00BCD4"
-            }
-        },
-        {
-            "name": "Method definitions",
-            "scope": [
-                "entity.name.function",
-                "support.function"
-            ],
-            "settings": {
-                "foreground": "#ECEFF1",
-                "fontStyle": "normal"
+                "foreground": "#E4A0A0"
             }
         },
         {
@@ -123,7 +115,7 @@
                 "punctuation.definition.variable"
             ],
             "settings": {
-                "foreground": "#80DEEA"
+                "foreground": "#BCA885"
             }
         },
         {
@@ -133,7 +125,7 @@
         		"support.function.dom"
         	],
         	"settings": {
-        		"foreground": "#1abc9c"
+        		"foreground": "#FFA8A8"
         	}
         }
   ]
