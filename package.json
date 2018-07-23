@@ -1,0 +1,23 @@
+{
+  "name": "vscode-dragon-theme",
+  "version": "1.0.0",
+  "description": "An awesome theme for vs code",
+  "publisher": "Sandeep Acharya",
+  "engines": {
+      "vscode": "^1.0.0"
+  },
+  "categories": [
+      "Themes"
+  ],
+  "contributes": {
+      "themes": [
+          {
+              "label": "Dragon Theme",
+              "uiTheme": "vs-dark",
+              "path": "./themes/dragon-theme.json"
+          }
+      ]
+  },
+  "author": "Sandeep Acharya <i.am.sandeep.acharya@gmail.com> (https://applyhead.com)",
+  "license": "ISC"
+}

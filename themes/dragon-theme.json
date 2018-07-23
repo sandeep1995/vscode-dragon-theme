@@ -1,0 +1,140 @@
+{
+  "name": "vscode-dragon-theme",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#222233",
+    "editor.foreground": "#AACCFF",
+    "editor.lineHighlightBackground": "#1f1f2e",
+    "editorWhitespace.foreground": "#424242",
+    "editorIndentGuide.background": "#616161",
+    "editor.findMatchHighlightBackground": "#DD2C00",
+    "sideBar.background": "#1f1f2e",
+    "sideBar.foreground": "#AACCFF",
+    "terminal.background": "#222233",
+    "terminal.foreground": "#AACCFF",
+    "list.hoverBackground": "#47476b",
+    "list.hoverForeground": "#1f1f2e",
+    "list.focusBackground": "#47476b",
+    "list.focusForeground": "#ffffff",
+    "dropdown.background": "#47476b",
+    "dropdown.listBackground": "#33334d",
+    "activityBar.background": "#222233",
+    "tab.activeBackground": "#222233",
+    "tab.activeBorder": "#222233",
+    "tab.inactiveBackground": "#222233",
+    "editorGroupHeader.tabsBackground": "#222233",
+    "editor.inactiveSelectionBackground": "red"
+  },
+  "tokenColors": [
+  	 {
+            "name": "Comments",
+            "scope": [
+                "comment",
+                "punctuation.definition.comment"
+            ],
+            "settings": {
+                "foreground": "#81C784",
+                "background": "#C5E1A5"
+            }
+        },
+        {
+            "name": "Keywords, Punctuation",
+            "scope": [
+                "keyword",
+                "keyword.control",
+                "storage.type",
+                "storage.modifier",
+                "punctuation.definition.parameters",
+                "punctuation.section.parens.begin",
+                "variable.parameter",
+                "variable.other.property",
+                "support.variable.property.dom",
+                "variable.other.object.property",
+                "punctuation.separator",
+                "punctuation.accessor",
+                "punctuation.definition.array"
+            ],
+            "settings": {
+                "foreground": "#00BCD4"
+            }
+        },
+        {
+            "name": "Objects",
+            "scope": [
+                "variable.other.object",
+                "support.class.console",
+                "support.variable.dom",
+                "support.constant",
+                "entity.name.type.module",
+                "entity.name.type"
+            ],
+            "settings": {
+                "foreground": "#80DEEA"
+            }
+        },
+        {
+            "name": "Constants",
+            "scope": [
+                "constant.numeric",
+                "constant.language",
+                "support.type.primitive"
+            ],
+            "settings": {
+                "foreground": "#F9A825"
+            }
+        },
+        {
+            "name": "Strings",
+            "scope": [
+                "string",
+                "constant.other.symbol"
+            ],
+            "settings": {
+                "foreground": "#FBC02D"
+            }
+        },
+        {
+            "name": "Quotes",
+            "scope": [
+                "punctuation.definition.string.begin",
+                "punctuation.definition.string.end"
+            ],
+            "settings": {
+                "foreground": "#00BCD4"
+            }
+        },
+        {
+            "name": "Method definitions",
+            "scope": [
+                "entity.name.function",
+                "support.function"
+            ],
+            "settings": {
+                "foreground": "#ECEFF1",
+                "fontStyle": "normal"
+            }
+        },
+        {
+            "name": "Variables",
+            "scope": [
+                "variable.language",
+                "variable.other.member",
+                "variable.other.readwrite",
+                "punctuation.definition.variable"
+            ],
+            "settings": {
+                "foreground": "#80DEEA"
+            }
+        },
+        {
+        	"name": "Functions", 
+        	"scope": [
+        		"entity.name.function",
+        		"support.function.dom"
+        	],
+        	"settings": {
+        		"foreground": "#1abc9c"
+        	}
+        }
+  ]
+}
