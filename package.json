@@ -1,6 +1,6 @@
 {
   "name": "vscode-dragon-theme",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "displayName": "Dragon Theme",
   "description": "😎 A VS Code dark theme for a cleaner and more streamlined interface.",
   "publisher": "sandeep1995",
@@ -29,7 +29,12 @@
     "type": "git",
     "url": "git+https://github.com/sandeep1995/vscode-dragon-theme.git"
   },
-  "keywords": ["VS Code", "Theme", "Dark Theme", "Flat"],
+  "keywords": [
+    "VS Code",
+    "Theme",
+    "Dark Theme",
+    "Flat"
+  ],
   "bugs": {
     "url": "https://github.com/sandeep1995/vscode-dragon-theme/issues"
   },
