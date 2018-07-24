@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "displayName": "Dragon Theme",
   "description": "😎 A VS Code dark theme for a cleaner and more streamlined interface.",
-  "publisher": "Sandeep Acharya",
+  "publisher": "sandeep1995",
   "engines": {
     "vscode": "^1.8.0"
   },
@@ -21,7 +21,7 @@
   },
   "icon": "images/icon.png",
   "galleryBanner": {
-    "color": "#222233",
+    "color": "#C80000",
     "theme": "dark"
   },
   "author": "Sandeep Acharya <i.am.sandeep.acharya@gmail.com> (https://applyhead.com)",
