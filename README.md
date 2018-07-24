@@ -26,3 +26,7 @@ Then clone the repository
 ```bash
 git clone https://github.com/sandeep1995/vscode-dragon-theme.git
 ```
+
+Then press `Command + K` and `Command + T`
+
+Choose `Dragon Theme` from the list. 
