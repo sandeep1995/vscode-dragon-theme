@@ -7,7 +7,6 @@
     "editor.lineHighlightBackground": "#1f1f2e",
     "editorWhitespace.foreground": "#424242",
     "editorIndentGuide.background": "#616161",
-    "editor.findMatchHighlightBackground": "#DD2C00",
     "sideBar.background": "#1f1f2e",
     "sideBar.foreground": "#AACCFF",
     "terminal.background": "#222233",
@@ -23,10 +22,14 @@
     "tab.activeBorder": "#222233",
     "tab.inactiveBackground": "#222233",
     "editorGroupHeader.tabsBackground": "#222233",
-    "editor.inactiveSelectionBackground": "red",
     "notifications.foreground": "#AACCFF",
     "notifications.background": "#222233",
-    "input.background": "#33334d"
+    "input.background": "#33334d",
+    "statusBar.background": "#1f1f2e",
+    "statusBar.foreground": "#AACCFF",
+    "editorBracketMatch.background": "#3c6382",
+    "peekViewEditor.background": "#1f1f2e",
+    "peekViewResult.background": "#33334c"
   },
   "tokenColors": [
   	 {
@@ -36,17 +39,13 @@
                 "punctuation.definition.comment"
             ],
             "settings": {
-                "foreground": "#81C784",
-                "background": "#C5E1A5"
+                "foreground": "#988686"
             }
         },
         {
-            "name": "Keywords, Punctuation",
+            "name": "Punctuation",
             "scope": [
-                "keyword",
-                "keyword.control",
                 "storage.type",
-                "storage.modifier",
                 "punctuation.definition.parameters",
                 "punctuation.section.parens.begin",
                 "variable.parameter",
@@ -59,6 +58,17 @@
             ],
             "settings": {
                 "foreground": "#00BCD4"
+            }
+        },
+        {
+            "name": "Keywords",
+            "scope": [
+                "keyword",
+                "keyword.control",
+                "storage.modifier"
+            ],
+            "settings": {
+                "foreground": "#76F9A2"
             }
         },
         {
