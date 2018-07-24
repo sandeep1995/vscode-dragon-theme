@@ -2,6 +2,9 @@
 
 A VS Code dark theme for a cleaner and more streamlined interface. 😎
 
+## Screenshot
+![Banner Image](https://user-images.githubusercontent.com/12299906/43127790-f06167ca-8f4d-11e8-809e-e21c6e358477.png)
+
 ## Installation
 
 ### Clone Repository
@@ -23,6 +26,3 @@ Then clone the repository
 ```bash
 git clone https://github.com/sandeep1995/vscode-dragon-theme.git
 ```
-
-## Screenshots
-![Banner Image](https://user-images.githubusercontent.com/12299906/43127790-f06167ca-8f4d-11e8-809e-e21c6e358477.png)
