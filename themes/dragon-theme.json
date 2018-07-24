@@ -39,7 +39,8 @@
                 "punctuation.definition.comment"
             ],
             "settings": {
-                "foreground": "#988686"
+                "foreground": "#C69650",
+                "fontStyle": "italic"
             }
         },
         {
