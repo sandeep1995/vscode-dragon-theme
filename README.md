@@ -1,6 +1,6 @@
 ![vs codedragontheme](https://user-images.githubusercontent.com/12299906/43123831-02abc782-8f43-11e8-878c-28aacdeeee0a.png)
 
-A VS Code dark theme for a cleaner and more streamlined interface. 😎
+VS Code dark theme for a cleaner and more streamlined interface. 😎
 
 ## Screenshot
 ![Banner Image](https://user-images.githubusercontent.com/12299906/43127790-f06167ca-8f4d-11e8-809e-e21c6e358477.png)
